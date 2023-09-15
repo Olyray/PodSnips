@@ -1,0 +1,5 @@
+/clips/
+/downloaded_episodes/
+/__pycache__/
+.env
+resources.txt

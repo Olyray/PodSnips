@@ -1,0 +1,1 @@
+PodSnips is a tool that lets users create snippets from podcast episodes  they love.
